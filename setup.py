@@ -24,7 +24,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    description="Bot for managing volunteers",
+    description="Bot for QA",
     install_requires=requirements,
     long_description=readme,
     include_package_data=True,
