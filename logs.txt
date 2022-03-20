@@ -1,0 +1,1 @@
+azure.cognitiveservices.knowledge.qnamaker.authoring.models.error_response_py3.ErrorResponseException: (401) The Update Knowledgebase Operation under QnA Maker V4.0 is not supported with the current subscription key and pricing tier TextAnalytics.F0.
